@@ -26,3 +26,21 @@ GROP NAME I Love อ.ต้น
 
 
 # สรุปเนื้อหาบทที่ 2 Getting to Know Your Data
+- Lecture
+https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B9%80%E0%B8%99%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%B2%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88_2_Getting_to_Know_Your_Data.ipynb
+
+    - ขนาดของข้อมูล
+    
+    - คุณสมบัติของ matrix
+    
+    - การบันทึกข้อมูล
+    
+    - กราฟเเละเครือข่าย
+    
+    - Ordered Data
+    
+    - ข้อมูลเชิงพื้นที่ ภาพ เเละมัลติมีเดีย
+    
+    - ลักษณะสำคัญของข้อมูล
+    
+    - ข้อมูลที่เป็นตัวเลข
