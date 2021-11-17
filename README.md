@@ -44,3 +44,34 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%
     - ลักษณะสำคัญของข้อมูล
     
     - ข้อมูลที่เป็นตัวเลข
+    
+- Googlecolab
+
+    - ประกอบไปด้วยส่วยย่อยดังนี้ 
+
+
+    1 Basic Python 
+    
+      - Casting
+      - Data Structure
+      - Loop
+      - Condition
+      - Function
+
+
+     2 Data Visualization https://github.com/chayakonchanlun/DWDM21/blob/main/Data_Visualization.ipynb
+     
+      - Scatter plot
+      - Plot
+      - Bar chart
+      - Histogram
+
+
+     3 Distance Numpy https://github.com/chayakonchanlun/DWDM21/blob/main/Distance_Numpy.ipynb
+     
+      - Numpy Array
+      - สร้าง numpy array
+      - สร้าง matrix เริ่มต้น (Zeros,ones)
+      - สร้าง matrix randoom
+      - matrix properties
+
