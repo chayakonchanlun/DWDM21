@@ -101,4 +101,73 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%
 
 # บทที่ 4 Data Warehousing and On-line Anaalytical Processing
 
+https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%204%20Data%20Warehousing%20and%20On-line%20Anaalytical%20Processing.pdf
 
+   - Data Warehouse : Basic concepts
+   - Data Warehouse Mining : Data Cube and OLAP
+   - OLTP vs. OLAP
+   - Data Cubes
+   - Data Warehouse Disng and Usage
+   - Data Warehouse Implementation
+
+# บทที่ 5 
+https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%205.pdf
+- Googlecolab
+- Association Rules https://github.com/chayakonchanlun/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb
+    - Besic Concepts
+    - K-itemsets 
+    - ลบ records ที่ถูก cancel ออกไป
+    - Plot graph of Itemsets
+    - Frequence Itemsets to Association Rule
+    - Efficient Pattern Mining Methods
+    - Apriori
+    - Support
+# บทที่ 6
+- ประกอบด้วย 3 ส่วนย่อย
+- Desition Tree https://github.com/chayakonchanlun/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb
+   - Load Data
+   - Train Model
+   - import(เรียกใช้ algorithm ที่เราต้องการ)
+   - define (กำหนด paramiters ให้กับ model)
+   - train (ฝึกสอนตัวแบบ)
+   - plot tree
+   - Evaluation
+   - Random
+   - Advanced Tree
+   - import
+   - Define
+   - Train
+   - TEST
+- KNN https://github.com/chayakonchanlun/DWDM21/blob/main/Chap_7_Classification(KNN_NN).ipynb
+   - Load data
+   - Split Data
+   - Train Model
+   - import
+   - knn1
+   - knn2
+   - knn3
+   - Retrain & Evaluate
+   - Neural Network
+   - import
+   - Define
+   - Train - Test
+   - ANN 2
+   - ANN 3
+- Evaluation https://github.com/chayakonchanlun/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb
+   - Load data
+   - เเบ่ง Data
+   - สร้าง Model ทำนาย
+   - import
+   - Define
+   - Train
+   - Evaluation
+บทที่ 7 
+- Lecture https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%207.pdf
+- Googlecolab https://github.com/chayakonchanlun/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb
+   - K-means Generate 
+   - Data Explore 
+   - Data Clustering 
+   - import 
+   - Define 
+   - Fit-Predict 
+   - Exanple
