@@ -173,3 +173,26 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%
    - Define 
    - Fit-Predict 
    - Exanple
+
+# บทที่ 8 Classification:Basic Concepts
+- https://github.com/chayakonchanlun/DWDM21/blob/main/Chap8_Clustering.ipynb
+   - ลักษณะการสร้างโมเดลแบบมีผู้สอน
+   - ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
+   - การทำนายปัญหา ระหว่าง Classification กับ การใช้ ทำนายตัวเลข
+   - การสร้างโมเดลแบบจำลอง
+   - Decision Tree ต้นไม้ตัดสินใจ
+   - หลักการสร้างตาราง
+   - ตัวอย่างในการหาค่าต่าง ๆ
+   - Gini Index
+   - การหาค่า Gini
+   - Naive Bayes Classfier
+   - Linear Regreesion
+   - สารบัญในส่วน Github
+
+
+# สอบมิดเทอม https://github.com/chayakonchanlun/DWDM21/blob/main/MiniExam.ipynb
+
+
+# project https://github.com/chayakonchanlun/DWDM21/blob/main/Project_Final2.ipynb
+
+# สไลด์นำเสนอ https://github.com/chayakonchanlun/DWDM21/blob/main/Slide-Project.pdf
