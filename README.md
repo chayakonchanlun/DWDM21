@@ -76,4 +76,27 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%
       - matrix properties
 
 
-# บทที่ 3 Data Preprocessing
+# บทที่ 3 Data Preprocessing 
+- https://github.com/chayakonchanlun/DWDM21/blob/main/Data_preposcessing_(chepter3).ipynb
+- Meta Data (Data ที่ใช้อธิบาย Data)
+  - ชี้ข้อมูลในตาราง
+  - ชี้แบบธรรมดา (ใช้[ชื่อcolumn][index])
+  - ชี้แบบ .iloc (มองข้อมูลเป็น matrix)
+- Missing Values
+  - Handling Missing Value 1 (ลบค่า missing)
+  - Handling Missing Value 1.5 (ลบค่า missing เฉพาะใน column ที่เราสนใจ)
+  - Handling Missing Value 2 (แทนด้วย class ใหม่ (unknown))
+  - Handling Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+  - Handling Missing Value 4 (เเทนด้วย ค่ากลาง)
+  - Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียว)
+- Select data by value [PD]
+  - สร้าง list ของ boolean
+  - นำ list ของ boolean มาเลือกค่าในตาราง
+  - ต่อตารางแนวแกน Y [PD]
+  - Handling Missing Value 5 (แทนด้วย ค่ากลางของ samples ใน class เดียวกัน) (ต่อ)
+- การรวมตาราง Data Integration (ต่อตารางในแนวแกน x)
+  - Grop by (pandas)
+  - [PD] save ตารางเอาไปใช้ที่อื่น
+  - [PD]การสร้างตาราง
+
+# บทที่ 4 Data Warehousing and On-line Anaalytical Processing
