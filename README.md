@@ -122,6 +122,7 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%
     - Efficient Pattern Mining Methods
     - Apriori
     - Support
+    - 
 # บทที่ 6
 - ประกอบด้วย 3 ส่วนย่อย
 - Desition Tree https://github.com/chayakonchanlun/DWDM21/blob/main/Chap7_Classification_(Evaluation).ipynb
@@ -161,7 +162,8 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%
    - Define
    - Train
    - Evaluation
-บทที่ 7 
+   - 
+# บทที่ 7 
 - Lecture https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%207.pdf
 - Googlecolab https://github.com/chayakonchanlun/DWDM21/blob/main/Chapter_6_Association_Rules.ipynb
    - K-means Generate 
