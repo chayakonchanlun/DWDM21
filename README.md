@@ -75,3 +75,5 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%
       - สร้าง matrix randoom
       - matrix properties
 
+
+# บทที่ 3 Data Preprocessing
