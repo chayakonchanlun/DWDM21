@@ -100,3 +100,5 @@ https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%
   - [PD]การสร้างตาราง
 
 # บทที่ 4 Data Warehousing and On-line Anaalytical Processing
+
+
