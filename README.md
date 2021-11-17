@@ -18,7 +18,7 @@ GROP NAME I Love อ.ต้น
 # สารบัญเนื้อหา
 
 # สรุปเนื้อหาบทที่ 1 Introduction
-- 
+- https://github.com/chayakonchanlun/DWDM21/blob/main/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%9A%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88_1_Introduction.ipynb
 - ความหมายเเละนิยามของ Data Mining
 - ขั้นตอนเเละองค์ประกอบของ Data Mining
 - knowledge discovery (kdd) process
